@@ -1,0 +1,38 @@
+.add-data {
+    text-decoration: none;
+    background-color: #333;
+    padding: 8px;
+    border-radius: 5px;
+    color: #eee;
+    width: 65px;
+}
+.add-data:hover {
+    color: #FFF;
+    background-color: #555;
+    padding: 8.5px;
+}
+
+table {
+    border-radius: 5px;
+}
+
+.search-button {
+    background-color: #333;
+    color: #eee;
+    border-radius: 5px;
+    border: 0;
+    padding: 8px;
+    width: 65px;
+}
+.search-button:hover {
+    color: #FFF;
+    background-color: #555;
+    padding: 8.5px;
+    
+}
+
+.search-bar {
+    height: 25px;
+    border-radius: 5px;
+    color: #444;
+}
